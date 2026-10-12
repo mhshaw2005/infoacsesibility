@@ -10,8 +10,8 @@
   --panel: #f7f5f2;
   --sale-bg: #e8b4b8;
   --sale-ink: #ffffff;
-  --seat-open: #2e7d32;
-  --seat-taken: #bdbdbd;
+  --seat-open: ##F5F5F5;
+  --seat-taken: #000000;
   --seat-picked: #6b3f2a;
 }
 
