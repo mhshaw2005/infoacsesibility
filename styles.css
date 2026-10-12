@@ -98,7 +98,7 @@ h4 { font-size: 15px; margin: 0 0 4px; }
   border: 0;
   font: inherit;
   cursor: pointer;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .btn.secondary { background: var(--panel); color: var(--ink); border: 1px solid var(--rule); }
 
