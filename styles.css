@@ -25,6 +25,11 @@ body {
   line-height: 1.5;
 }
 
+div {
+  resize: both;
+  overflow: auto;
+}
+
 /* ---------- Layout ---------- */
 
 .wrap {
